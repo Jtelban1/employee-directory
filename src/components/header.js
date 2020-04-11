@@ -4,7 +4,7 @@ function Header() {
     return (
         <header className="navbar p-2 mb-4 bg-gray">
             <section className="navbar-section">
-                <a href="#" className="navbar-brand mr-2 text-dark text-bold">
+                <a href="/" className="navbar-brand mr-2 text-dark text-bold">
                     Employee Directory
                 </a>
             </section>
