@@ -9,6 +9,6 @@
 -   I used the filter and sort methods while creating the buttons on by home.js that would
     create the funcitonality to filer by name or sort. I then rendered.
 
-Heroku URL
+Heroku URL https://protected-meadow-58276.herokuapp.com/
 
-GitHub URL
+GitHub URL https://github.com/Jtelban1/employee-directory.git
